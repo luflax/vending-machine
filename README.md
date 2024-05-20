@@ -1,4 +1,4 @@
-# 28Team Tech Assessment
+# Vending Machine
 
 ## Client specification
 
